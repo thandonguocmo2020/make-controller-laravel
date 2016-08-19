@@ -1,0 +1,18 @@
+{
+    "name": "hoanghiep/controller",
+    "description": "create controller in laravel --method all",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hoanghiep",
+            "email": "thandonguocmo2020@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hoanghiep\\Controller\\": "vendor/hoanghiep/controller/src/"
+        }
+    }
+}
